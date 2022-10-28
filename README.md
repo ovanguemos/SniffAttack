@@ -3,7 +3,7 @@
 <br>***Script to perform MiTM spoofing and sniffing attack on websites with http protocol.***
 
 
-*Author: Ovidio Antonio Guerrero Mosquera.*
+*Author: Ovidio Antonio Guerrero Mosquera*
 <br>*Email: <ovanguemos@hotmail.com>*<br>
 <br>
 
