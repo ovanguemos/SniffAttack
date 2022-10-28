@@ -26,7 +26,7 @@ In the MiTM attack, the attacker impersonates the mac address of the gateway and
 
 <br>**Instructions and navigation**
 
-1. **git clone https://gitlab.com/ucm_security/proyectofinalovidio/-/blob/main/sniffattack.py**
+1. **git clone https://github.com/ovanguemos/SniffAttack.git**
 
 2. **cd SSAttack/proyectofinalovidio**
 
